@@ -4,18 +4,13 @@
    git clone https://github.com/AtakanKaracaDaglar/autoclicker.git
    cd autoclicker
 
-Install dependencies:
-
-bash
-
-pip install -r requirements.txt
-
+2. Install dependencies:
+    ```bash
+    pip install -r requirements.txt
 
 Run the application:
-
-bash
-
-python autoclicker_gui1.py
+    ```bash
+    python autoclicker_gui1.py
 
 
 
