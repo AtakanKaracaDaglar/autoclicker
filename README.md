@@ -8,7 +8,7 @@
     ```bash
     pip install -r requirements.txt
 
-Run the application:
+3. Run the application:
     ```bash
     python autoclicker_gui1.py
 
