@@ -1,3 +1,25 @@
+## Setup
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/AtakanKaracaDaglar/autoclicker.git
+   cd autoclicker
+
+Install dependencies:
+
+bash
+
+pip install -r requirements.txt
+
+
+Run the application:
+
+bash
+
+python autoclicker_gui1.py
+
+
+
+
 Auto Clicker with Color Detection
 This application offers an advanced auto-clicking solution with the following features:
 
