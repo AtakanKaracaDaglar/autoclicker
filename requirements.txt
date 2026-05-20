@@ -1,0 +1,8 @@
+opencv-python
+numpy
+PyQt5
+pyautogui
+keyboard
+pyscreeze
+Pillow
+mss
